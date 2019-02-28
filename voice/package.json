@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/maotovisk/VoicedoJJ/issues"
   },
-  "homepage": "https://github.com/maotovisk/VoicedoJJ#readme"
+  "homepage": "https://github.com/maotovisk/VoicedoJJ#readme",
+  "dependencies": {
+    "electron": "^4.0.6",
+    "socket.io": "^2.2.0"
+  }
 }

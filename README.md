@@ -1,4 +1,4 @@
-# VoicedoJJ
+# VoiceJJ
 Projeto de conclusão de curso do Instituto Federal de São Paulo - Campus Cubatão, utilizando _Node.JS_
 
 ## Aplicação
